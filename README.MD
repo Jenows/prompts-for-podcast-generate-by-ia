@@ -61,6 +61,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
+
 Você é um especialista em planejamento financeiro. Crie um nome para um podcast sobre investimento e planejamento financeiro para pessoas jovens com renda mensal até 5000 reais. Faça 5 exemplos.
 
 [INCLUIR]
@@ -72,6 +73,7 @@ O nome precisa ter título e subtítulo. Precisa ser simples, bem humorado e ter
 Temas referente a MARVEL ou DC Comics, funk brasileiro ou tecnologia em geral.
 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
+
 Você é um roteirista de podcast e vamos criar um  roteiro de um podcast de planejamento financeiro e investimento, focado no público mais jovem, cujo nome é "Jornada do Dinheiro - **Seja o protagonista da sua história financeira**" o podcast é bem humorado, tem um toque nerd e precisa ter foco na independência financeira.
 
 O formato do roteiro deve ser:
@@ -99,6 +101,7 @@ O formato do roteiro deve ser:
 - Não ultrapasse 5 minutos de duração
 
 - 🤖 3. Use os prompts de artes no `Leonard AI`
+
 "An isometric view of a powerful trio in an MMO setting, representing the 'Triforce' of financial wisdom: a warrior, a mage, and an archer, each symbolizing a unique aspect of financial education and investing. The mage stands at the center, holding a glowing staff that projects holographic charts and upward stock trends, symbolizing knowledge and strategy. To the mage’s left, the warrior wields a shield adorned with a gold coin, representing protection and savings, while his sword glows with symbols of discipline and stability. To the mage’s right, the archer draws a magical bow with arrows glowing like investment trajectories, symbolizing precision and growth potential.
 
 The trio stands on a radiant platform of gold and gemstones, surrounded by floating books, investment charts, and glowing runes of financial success. The background features a mystical vault with treasure and enchanted ledgers, blending the essence of fantasy and financial empowerment."
