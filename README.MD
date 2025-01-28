@@ -61,39 +61,44 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
+Você é um especialista em planejamento financeiro. Crie um nome para um podcast sobre investimento e planejamento financeiro para pessoas jovens com renda mensal até 5000 reais. Faça 5 exemplos.
+
+[INCLUIR]
+
+O nome precisa ter título e subtítulo. Precisa ser simples, bem humorado e ter um toque nerd para atrair quem se interessa com o tema.
+
+[NÃO INCLUIR]
+
+Temas referente a MARVEL ou DC Comics, funk brasileiro ou tecnologia em geral.
+
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+Você é um roteirista de podcast e vamos criar um  roteiro de um podcast de planejamento financeiro e investimento, focado no público mais jovem, cujo nome é "Jornada do Dinheiro - **Seja o protagonista da sua história financeira**" o podcast é bem humorado, tem um toque nerd e precisa ter foco na independência financeira.
 
-## 👨‍💻 Expert
+O formato do roteiro deve ser:
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+{REGRAS}
 
----
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'investidor sardinha - raul senna', como se fossem escritos pelo Raul Senna.
+- no bloco [CURIOSIDADE 1] substitua por uma dica inicial de como economizar.
+- no bloco [CURIOSIDADE 2] investimentos iniciais para quem tem renda até 5 mil por mês.
+- no bloco [FINALIZAÇÃO] substitua por uma despedida bem humorada com o final 'Me chamo Zé e vamos juntos nessa Jornada do Dinheiro. Até a próxima semana galera.'
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Zé.
+- O podcast deve ser curto.
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Temas referente a MARVEL ou DC Comics
+- Funk brasileiro
+- Tecnologia em geral.
+- Não ultrapasse 5 minutos de duração
+
+- 🤖 3. Use os prompts de artes no `Leonard AI`
+"An isometric view of a powerful trio in an MMO setting, representing the 'Triforce' of financial wisdom: a warrior, a mage, and an archer, each symbolizing a unique aspect of financial education and investing. The mage stands at the center, holding a glowing staff that projects holographic charts and upward stock trends, symbolizing knowledge and strategy. To the mage’s left, the warrior wields a shield adorned with a gold coin, representing protection and savings, while his sword glows with symbols of discipline and stability. To the mage’s right, the archer draws a magical bow with arrows glowing like investment trajectories, symbolizing precision and growth potential.
+
+The trio stands on a radiant platform of gold and gemstones, surrounded by floating books, investment charts, and glowing runes of financial success. The background features a mystical vault with treasure and enchanted ledgers, blending the essence of fantasy and financial empowerment."
